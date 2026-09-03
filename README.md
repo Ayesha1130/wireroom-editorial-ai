@@ -301,5 +301,3 @@ The publish endpoint does not trust article content sent by the browser. When Su
 - stronger semantic citation verification
 - real CMS adapter(s) and webhook delivery
 - authenticated multi-user tenancy
-#   w i r e r o o m - e d i t o r i a l - a i  
- 
